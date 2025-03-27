@@ -1,5 +1,4 @@
-# DataVisualization
-## Exploring the Urban dynamics through datasets made of Hate crime, Arrest, Shooting, Eviction and Collision of New York City.
+# Exploring the Urban dynamics through datasets made of Hate crime, Arrest, Shooting, Eviction and Collision of New York City.
 Research Questions:
 1.	Where were the arrests made in terms of location in NY city and did any race have precedence over other races? 
 2.	What was the age range of the arrests that were made? What was the number in terms of gender?
